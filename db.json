@@ -1,1 +1,52 @@
-{"tasks":[{"id":"d1b41a59-df1c-4954-97ba-70a84fc4778a","title":"Estudar Node","description":"assistir as aulas do módulo de Node","completed_at":null,"created_at":"2024-12-11T17:40:14.023Z","updated_at":"2024-12-11T17:40:14.023Z"},{"id":"33ea075c-2ec1-4c5c-9d39-ba20d9b543db","title":"Estudar React Native","description":"Assistir as aulas do módulo de React Native","completed_at":"Completed","updated_at":"2024-12-11T17:55:13.208Z"},{"id":"443210aa-8951-4b3e-8cab-4d4a7700ef45","title":"Estudar React","description":"assistir as aulas do módulo de React","completed_at":null,"created_at":"2024-12-11T18:00:06.748Z","updated_at":"2024-12-11T18:00:06.749Z"},{"id":"ef66a1fe-2a11-462f-b184-d6db36712bd2","title":"Estudar POSTGRESQL","description":"Assistir as aulas de POSTGRESQL","completed_at":null,"updated_at":"2024-12-12T14:58:59.954Z"},{"id":"1e79cf1f-d76c-472e-a5e3-b81c4319bb50","title":"Estudar CSS","description":"assistir as aulas do módulo de CSS","completed_at":null,"created_at":"2024-12-12T15:25:18.724Z","updated_at":"2024-12-12T15:25:18.724Z"},{"id":"fc4d0b66-5524-4919-9932-959dcc11bdf4","title":"Estudar HTML","description":"Assistir as aulas de HTML","completed_at":"2024-12-12T16:51:09.227Z","created_at":"2024-12-12T16:17:10.506Z","updated_at":"2024-12-12T16:51:09.227Z"}]}
+{
+  "tasks": [
+    {
+      "id": "e0092fbb-828f-433f-aa64-2925bd40ed61",
+      "title": "Estudar HTML",
+      "description": "Assistir aos módulos do curso de HTML",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:51.177Z",
+      "updated_at": "2024-12-13T01:28:51.177Z"
+    },
+    {
+      "id": "ef540026-b0e6-4e9f-bdb2-f42a47202e1f",
+      "title": "Estudar CSS",
+      "description": "Assistir aos módulos do curso de CSS",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:52.201Z",
+      "updated_at": "2024-12-13T01:28:52.201Z"
+    },
+    {
+      "id": "8ad60b3b-9628-4755-a46f-608e806647d4",
+      "title": "Estudar Javascript",
+      "description": "Assistir aos módulos do curso de Javascript",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:53.217Z",
+      "updated_at": "2024-12-13T01:28:53.217Z"
+    },
+    {
+      "id": "be20cdcb-b4b4-4712-afa0-d4bcf6c278cf",
+      "title": "Estudar TypeScript",
+      "description": "Assistir aos módulos do curso de TypeScript",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:54.221Z",
+      "updated_at": "2024-12-13T01:28:54.221Z"
+    },
+    {
+      "id": "637a579a-c560-40b5-b5a5-2ee5afa33bf6",
+      "title": "Estudar Node",
+      "description": "Assistir aos módulos do curso de Node",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:55.236Z",
+      "updated_at": "2024-12-13T01:28:55.236Z"
+    },
+    {
+      "id": "3c3d241c-0e82-449f-9834-0b1fd0ed42cc",
+      "title": "Estudar React",
+      "description": "Assistir aos módulos do curso de React",
+      "completed_at": null,
+      "created_at": "2024-12-13T01:28:56.250Z",
+      "updated_at": "2024-12-13T01:28:56.250Z"
+    }
+  ]
+}

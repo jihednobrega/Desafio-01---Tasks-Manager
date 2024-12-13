@@ -16,7 +16,7 @@ export class Database {
   }
 
   #persist() {
-    fs.writeFile(databasePath, JSON.stringify(this.#database))
+    fs.writeFile(databasePath, JSON.stringify(this.#database, null, 2))
   }
 
   select(table, search) {
@@ -25,6 +25,10 @@ export class Database {
     if (search) {
       data = data.filter(row => {
         return Object.entries(search).some(([key, value]) => {
+          if (!value) {
+            return true
+          }
+
           return row[key].toLowerCase().includes(value.toLowerCase())
         })
       })
